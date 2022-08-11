@@ -83,7 +83,7 @@ The `withdrawal` function is executed for two different transactions.
 #### Last to withdraw and amount withdrawn
 ![Last to Withdraw](Execution_Results/lastToWithdrawAndAmount.jpg)
 
-#### Withdrawal 2 - Withdraw 110 ether or 10000000000000000000 wei to account holder 2.
+#### Withdrawal 2 - Withdraw 10 ether or 10000000000000000000 wei to account holder 2.
 
 ![Withdraw 2](Execution_Results/withdraw2.jpg)
 ![Withdraw 2 Log](Execution_Results/withdraw2_log.jpg)
