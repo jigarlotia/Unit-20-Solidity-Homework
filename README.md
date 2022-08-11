@@ -96,7 +96,7 @@ The `withdrawal` function is executed for two different transactions.
 ![Last to Withdraw](Execution_Results/last_withdraw_and_amount2.jpg)
 
 ### Exceeding Balance
-With the original balance of 16 ethers after two deposits, and subsequently withdrawing 10 ethers after two withdrawals, the current `contractBalance` is 1 ether or 1000000000000000000 wei.
+With the original balance of 16 ethers after three deposits, and subsequently withdrawing 10 ethers after two withdrawals, the current `contractBalance` is 1 ether or 1000000000000000000 wei.
 
 When now trying to withdraw 5 either or 5000000000000000000 wei, we get an error due to a mandatory check in the `withdrawal` function.
 ![Balance Error](Execution_Results/Balance%20Error.jpg)
